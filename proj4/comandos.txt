@@ -1,0 +1,20 @@
+npm config set init-author-name Lucas
+Define o nome do author
+
+npm config set init-author-email lima1301lucas@gmail.com
+Define o email
+
+npm config set init-license MIT
+Define o tipo de licensa usada no projeto
+
+npm config delete author
+Deleta as configurações salvas
+
+npm config delete init-author-name
+Deleta a informação da chave passada
+
+rm package.json 
+Remove o arquivo de configs do projeto
+
+npm get
+Mostras as keys e as infos salvas
