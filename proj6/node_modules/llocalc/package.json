@@ -1,0 +1,20 @@
+{
+  "name": "llocalc",
+  "version": "1.4.0",
+  "description": "módulo de calculos simples",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js",
+    "prepublishOnly": "npm run test"
+  },
+  "keywords": [
+    "calc",
+    "sum",
+    "multiplication",
+    "division",
+    "substraction",
+    "rest"
+  ],
+  "author": "Lucas <lima1301lucas@gmail.com>",
+  "license": "MIT"
+}
